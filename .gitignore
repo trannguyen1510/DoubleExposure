@@ -131,8 +131,9 @@ dmypy.json
 # Pycharm dir
 .idea
 
-# Picture
+# Folder
 static/
+Segment mask/
 
 # Model
 MODNet
