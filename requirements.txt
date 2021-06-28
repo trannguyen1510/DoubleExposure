@@ -1,0 +1,15 @@
+flask==1.1.2
+flask-boostrap==3.3.7.1
+flask-migrate==2.7.0
+flask-colorpicker==0.9
+gast==0.4.0
+imageio
+jinja2=2.11.3
+numpy
+pillow
+pytorch==1.6.0
+werkzeug==1.0.1
+pytorch
+torchvision==0.10.0
+tk
+opencv-python
