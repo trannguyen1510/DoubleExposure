@@ -5,4 +5,4 @@
 * Only used for research and study purposes
 ## Technology
 * Flask
-* Tensorflow Serving
+* MODNet (pull MODNet to root folder)

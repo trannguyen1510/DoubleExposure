@@ -1,0 +1,7 @@
+zInstructions:
+*Run cmd as Administration:
+docker pull tensorflow/serving
+docker run -p 8501:8501 --mount type=bind,source="D:\Programs\Git Repo\DoubleExposure\ImageClassifier\1",target=/models/ImageClassifier/1 -e MODEL_NAME=ImageClassifier -t tensorflow/serving &
+
+*Open cmd at path_to_file/app.py
+python app.py
