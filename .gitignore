@@ -133,3 +133,7 @@ dmypy.json
 
 # Picture
 static/
+
+# Model
+MODNet
+MODNet-master/
